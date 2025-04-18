@@ -1,3 +1,4 @@
+export const dynamic = "force-static";
 export async function GET() {
   // This is a shortened version of the none.txt file (first few entries)
   const noneWords = `أحمد
