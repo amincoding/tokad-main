@@ -1,3 +1,5 @@
+export const dynamic = "force-static";
+
 export async function GET() {
   // This is the content of the root_words.txt file
   const rootWords = `دخل
